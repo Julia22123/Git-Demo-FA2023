@@ -1,6 +1,6 @@
 # Git Demo: Julia A
 
-Actually learning Git!
+Actually learning Git!!!!!!!!!!!
 
 learn some cool stuff
 
@@ -9,4 +9,6 @@ learn some cool stuff
 - git push
 - git clone
 - git push
-  
+
+## cool stuff
+- learing branching
